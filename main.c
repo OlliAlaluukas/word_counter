@@ -6,6 +6,7 @@
 
 #define HASH_TABLE_SIZE 200000
 #define WORD_LENGTH 255
+// author: Olli Alaluukas
 
 typedef struct WordStruct_t{
     //unsigned long int bucket; //integer value of the word
